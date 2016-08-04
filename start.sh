@@ -11,4 +11,4 @@ fi
 
 cd /starbound/linux
 
-./run-server.sh
+./starbound_server
